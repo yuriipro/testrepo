@@ -30,6 +30,8 @@ Subject: CSDT
   <li>7. After the reviewer approved – merge request into develop branch.</li>  
 </ul>
 
+Group: KI-46;
+<br>
 Student:            Prots Yurii;
 <br>
 Students number:    20;
