@@ -3,7 +3,7 @@
 Subject: CSDT
 <br>
 <p>Task 1. Initiate GIT repository (BEF):</p>
-<ul>
+<ol>
   <li>1. Create a github repo with the name “csdt<YY1YY2><group><student's full name><student's number>”, main branch develop.</li>
     <ul>
         <li>YY1 – Start studding year</li>
@@ -28,7 +28,7 @@ Subject: CSDT
     </ul>  
   <li>6. Create pull request with name task1 and submit author as reviewer.</li>  
   <li>7. After the reviewer approved – merge request into develop branch.</li>  
-</ul>
+</ol>
 
 Group: KI-46;
 <br>
