@@ -3,6 +3,7 @@
 Subject: CSDT
 <br>
 <p>Task 1. Initiate GIT repository (BEF):</p>
+<br>
 <ol>
   <li>Create a github repo with the name “csdt<YY1YY2><group><student's full name><student's number>”, main branch develop.</li>
     <ul>
