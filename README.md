@@ -15,19 +15,16 @@ Subject: CSDT
     </ul>
   <li>2. Add access for the author.</li>
   <li>3. Create a branch feature/develop/<task number>. For example feature/develop/task1.</li>
-  <li>3. Create a branch feature/develop/<task number>. For example feature/develop/task1.</li>  
+  <li>4. Create README file with:</li>  
 </ul>
     
        
         
-        
-        
-    
-    4. Create README file with:
-        a. details about repo;
-        b. task details;
-        c. student number and details from Table 1. Tasks by students;
-        d. add details about technology, program language, and HW that will be used in next tasks.
+        - 4. Create README file with:
+          - a. details about repo;
+          - b. task details;
+          - c. student number and details from Table 1. Tasks by students;
+          - d. add details about technology, program language, and HW that will be used in next tasks.
     5. Create GIT TAG: <PROJECT NAME>_<VERSION>_WW<YYWWD>
         ∙ YY – current year;
         ∙ WW – work week;
